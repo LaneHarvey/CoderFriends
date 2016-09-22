@@ -1,0 +1,27 @@
+{
+  "name": "coder-friends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaneHarvey/CoderFriends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaneHarvey/CoderFriends/issues"
+  },
+  "homepage": "https://github.com/LaneHarvey/CoderFriends#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "github": "^3.1.0",
+    "massive": "^2.5.0",
+    "passport-github": "^1.1.0"
+  }
+}
